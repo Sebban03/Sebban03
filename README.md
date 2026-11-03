@@ -22,7 +22,7 @@ I'm looking for my first role in **data analysis**, **data engineering** or **IT
 | Project | Description | Tech |
 |---|---|---|
 | [wynajem-repo](https://github.com/Sebban03/wynajem-repo) | Real estate rental database: ERD, schema and queries | SQL |
-| [projekt_statki](https://github.com/Sebban03/projekt_statki) | Battleship game (university project) | Python |
+| [projekt_statki](https://github.com/Sebban03/projekt_statki) | Battleship AI agent trained with Double DQN (CNN) and a probability heatmap heuristic, with a Pygame GUI for human vs AI play. Team university project (2 people) | Python, PyTorch, Gymnasium, Pygame |
 
 More data projects coming soon.
 
