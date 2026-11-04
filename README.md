@@ -3,7 +3,7 @@
 **Applied Informatics (Data Science) Student**  
 Bydgoszcz University of Science and Technology
 
-Final-year student developing skills in data analysis, machine learning and software development. Currently looking for my first professional opportunity in **Data Analysis, Data Engineering or IT Support**.
+Final-year student interested in **Data Science, Machine Learning and Data Analysis**. Developing practical skills through university coursework and personal projects, with a focus on Python, data processing and machine learning.**
 
 ---
 
@@ -22,11 +22,15 @@ Final-year student developing skills in data analysis, machine learning and soft
 - Building small web-based applications and installable PWAs with AI assistance
 - GitHub Pages deployment
 
-**Tools & Environment**
-- Git & GitHub
-- Jupyter Notebook
-- Linux – basic knowledge
-- AI-assisted development
+**Development Tools & Environment**
+- Data Science: Jupyter Notebook, Google Colab
+- IDE & Editors: PyCharm, VS Code, WebStorm
+- Databases: MySQL Workbench, SQLite
+- Version Control: Git, GitHub
+- Other: Linux basics
+
+**AI-Assisted Development**
+- Using AI tools to support coding, debugging and application development
 
 ---
 
