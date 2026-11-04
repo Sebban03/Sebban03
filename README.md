@@ -1,36 +1,74 @@
 # Sebastian Banasiak
 
-Final-year **Applied Informatics (Data Science)** student at Bydgoszcz University of Science and Technology (Politechnika Bydgoska).
-I'm looking for my first role in **data analysis**, **data engineering** or **IT support**.
+**Applied Informatics (Data Science) Student**  
+Bydgoszcz University of Science and Technology
 
-## Skills
+Final-year student developing skills in data analysis, machine learning and software development. Currently looking for my first professional opportunity in **Data Analysis, Data Engineering or IT Support**.
 
-- **Data & ML:** Python (pandas, NumPy, scikit-learn), Machine Learning fundamentals
-- **Databases:** SQL (SQLite)
-- **Spreadsheets:** Excel (formulas, charts, pivot tables, Power Query)
-- **Web:** HTML, CSS, JavaScript – small installable web apps (PWA) built with AI assistance and hosted on GitHub Pages
-- **Tools:** Git & GitHub, Linux basics
+---
 
-## Currently
+## Technical Skills
 
-- Finishing my engineering thesis on class balancing methods (SMOTE, cost-sensitive learning) in fraud detection systems
-- Deepening my pandas, NumPy and scikit-learn skills
-- Building my first independent Machine Learning portfolio project
+**Programming & Data Science**
+- Python – pandas, NumPy, scikit-learn
+- Machine Learning – fundamental concepts and algorithms
 
-## Projects
+**Databases & Data Processing**
+- SQL – SQLite
+- Excel – formulas, charts, Pivot Tables, Power Query
 
-| Project | Description | Tech |
-|---|---|---|
-| [wynajem-repo](https://github.com/Sebban03/wynajem-repo) | Real estate rental database: ERD, schema and queries | SQL |
-| [projekt_statki](https://github.com/Sebban03/projekt_statki) | Battleship AI agent trained with Double DQN (CNN) and a probability heatmap heuristic, with a Pygame GUI for human vs AI play. Team university project (2 people) | Python, PyTorch, Gymnasium, Pygame |
+**Web & Application Development**
+- Basic knowledge of HTML, CSS and JavaScript
+- Building small web-based applications and installable PWAs with AI assistance
+- GitHub Pages deployment
 
-More data projects coming soon.
+**Tools & Environment**
+- Git & GitHub
+- Jupyter Notebook
+- Linux – basic knowledge
+- AI-assisted development
 
-## Side projects
+---
 
-- [**sebban-games**](https://github.com/sebban-games) – browser games (crossword duel, Wheel of Fortune and more)
-- [**sebban-apps**](https://github.com/sebban-apps) – everyday apps: journal, habits, training log, calendar
+## Currently Working On
+
+- Completing my engineering thesis on class balancing methods (SMOTE and cost-sensitive learning) in fraud detection systems.
+- Improving practical skills in pandas, NumPy and scikit-learn.
+- Developing my first independent Machine Learning portfolio project.
+
+---
+
+## Featured Projects
+
+### [wynajem-repo](https://github.com/Sebban03/wynajem-repo)
+**Real Estate Rental Database**
+
+A database project covering entity relationship modeling (ERD), database schema design and SQL queries.
+
+`SQL` `SQLite`
+
+### [projekt_statki](https://github.com/Sebban03/projekt_statki)
+**Battleship AI – Double DQN**
+
+A university team project (2 people) featuring an AI agent trained using Double Deep Q-Network (Double DQN) with a CNN architecture and a probability heatmap heuristic. Includes a Pygame interface for human vs. AI gameplay.
+
+`Python` `PyTorch` `Gymnasium` `Pygame`
+
+*More data science projects coming soon.*
+
+---
+
+## Other Projects
+
+### [sebban-apps](https://github.com/sebban-apps)
+A collection of everyday applications focused on productivity and personal organization, including a journal, habit tracker, training log and calendar.
+
+### [sebban-games](https://github.com/sebban-games)
+A collection of browser-based games, including crossword duel, Wheel of Fortune and other interactive projects.
+
+---
 
 ## Contact
 
-- Email: [banasiaksebastian03@gmail.com](mailto:banasiaksebastian03@gmail.com)
+- **Email:** [banasiaksebastian03@gmail.com](mailto:banasiaksebastian03@gmail.com)
+- **GitHub:** [@Sebban03](https://github.com/Sebban03)
